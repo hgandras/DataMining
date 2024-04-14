@@ -1,0 +1,10 @@
+,PID,ST_NUM,OWN_OCCUPIED,NUM_BEDROOMS,NUM_BATH,AREA,ST_NAME_Evropská,ST_NAME_Italská,ST_NAME_Opatovská,ST_NAME_Přemyslovská,ST_NAME_Ruská,ST_NAME_Stroměstské náměstí
+0,100001000.0,4.0,True,3.0,1.0,90,True,False,False,False,False,False
+1,100002000.0,97.0,False,3.0,1.0,112,False,False,False,False,False,True
+2,100003000.0,125.0,False,2.5,1.0,80,False,False,True,False,False,False
+3,100004000.0,20.0,True,1.0,1.0,71,False,False,True,False,False,False
+4,100000125.0,203.0,True,3.0,2.0,160,True,False,False,False,False,False
+5,100006000.0,27.0,True,2.5,1.0,112,False,False,False,True,False,False
+6,100007000.0,1.0,True,2.0,1.0,95,False,False,False,False,True,False
+7,100008000.0,213.0,True,1.0,1.0,112,False,True,False,False,False,False
+8,100009000.0,56.0,True,2.5,2.0,180,False,True,False,False,False,False
